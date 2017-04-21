@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.6.0",
+    "postcss-url": "^6.0.4",
+    "poststylus": "^0.2.3"
+  }
+}
